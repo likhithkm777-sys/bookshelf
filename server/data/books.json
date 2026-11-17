@@ -1,0 +1,77 @@
+{
+  "nextId": 9,
+  "books": [
+    {
+      "id": 1,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "status": "Finished",
+      "rating": 5,
+      "createdAt": "2026-11-17T05:40:55.205Z"
+    },
+    {
+      "id": 2,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "genre": "Programming",
+      "status": "Reading",
+      "rating": 0,
+      "createdAt": "2026-11-17T05:40:55.205Z"
+    },
+    {
+      "id": 3,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "status": "Finished",
+      "rating": 4,
+      "createdAt": "2026-11-17T05:40:55.205Z"
+    },
+    {
+      "id": 4,
+      "title": "Wings of Fire",
+      "author": "A. P. J. Abdul Kalam",
+      "genre": "Biography",
+      "status": "Finished",
+      "rating": 5,
+      "createdAt": "2026-11-17T05:40:55.205Z"
+    },
+    {
+      "id": 5,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Self-Help",
+      "status": "To Read",
+      "rating": 0,
+      "createdAt": "2026-11-17T05:40:55.205Z"
+    },
+    {
+      "id": 6,
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann",
+      "genre": "Programming",
+      "status": "To Read",
+      "rating": 0,
+      "createdAt": "2026-11-17T05:40:55.205Z"
+    },
+    {
+      "id": 7,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "status": "Reading",
+      "rating": 0,
+      "createdAt": "2026-11-17T05:40:55.205Z"
+    },
+    {
+      "id": 8,
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "status": "To Read",
+      "rating": 0,
+      "createdAt": "2026-11-17T05:40:55.205Z"
+    }
+  ]
+}
